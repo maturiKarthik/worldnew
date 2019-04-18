@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ShortNews</string>
+    <string name="btn_readmore">Read More</string>
+    <string name="anim_duation">200</string>
+    <string name="app_setting_notification">Allow Notification</string>
+    <string name="app_setting_Country">Country       </string>
+    <string name="about_phone">About Phone</string>
+    <string name="app_setting_internetspeed">Check Internet Speed</string>
 </resources>
